@@ -1,9 +1,8 @@
 
 public class TestClass {
 	
-	int a;
-	int b;
-	int c;
-	int d;
+	public static void main(String[] args){
+		System.out.println("Hello Ravikiran");
+	}
 
 }
